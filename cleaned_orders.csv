@@ -1,0 +1,2 @@
+Customer_ID,Order_ID,Order_Date,City,Category,Order_Value,Payment_Status
+CUST-060,ORD-1295,2025-11-02,Pune,Home,6959.15,Cancelled
